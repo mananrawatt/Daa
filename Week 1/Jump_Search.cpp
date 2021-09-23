@@ -1,9 +1,7 @@
 #include <iostream>
 #include <fstream>
 using namespace std;
-
 int c=0;
-
 bool jump_search(int *arr, int n, int k){
     for(int i=0; i<n; i+=2){
         ++c;
