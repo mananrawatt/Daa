@@ -22,6 +22,7 @@ void linear_Search(int a[],int n,int key)
   }
 }
 
+
 int main()
 {
   int n, size, key;
